@@ -132,7 +132,7 @@
 
 body {
   background: #444;
-  color: white;
+  color: zet-text-color(#444);
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
