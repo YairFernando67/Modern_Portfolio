@@ -2,6 +2,12 @@
 @include mediaXL {
   .projects {
     grid-template-columns: repeat(4, 1fr);
+
+    .project-description {
+      font-size: 1vw;
+      padding: 8px 15px;
+      line-height: 19px;
+    }
   }
 }
 
@@ -9,6 +15,12 @@
 @include mediaLg {
   .projects {
     grid-template-columns: repeat(3, 1fr);
+
+    .project-description {
+      font-size: 1.3vw;
+      padding: 5px 10px;
+      line-height: 19px;
+    }
   }
 }
 
@@ -72,6 +84,12 @@
 
   .projects {
     grid-template-columns: repeat(2, 1fr);
+
+    .project-description {
+      font-size: 1.9vw;
+      padding: 5px 10px;
+      line-height: 16px;
+    }
   }
 }
 
@@ -83,5 +101,11 @@
 
   .projects {
     grid-template-columns: 1fr;
+
+    .project-description {
+      font-size: 3.2vw;
+      padding: 5px 10px;
+      line-height: 20px;
+    }
   }
 }
