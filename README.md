@@ -28,9 +28,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot Image](img/logoRepo.png)
+![Screenshot Image](dist/img/logoRepo.png)
 
-This is a responsive web design based on a Modern Portfolio.
+This is a responsive web design based on my Portfolio.
 
 ### Built With
 The project was developed using these tools and technologies.
